@@ -41,7 +41,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`Config.py`](Config.py)
 
 ### Variables
 
-#### Required Variables
+#### Required Variables.
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
